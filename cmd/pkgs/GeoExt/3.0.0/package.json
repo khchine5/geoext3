@@ -9,11 +9,11 @@
   "signatures": [
     {
       "name": "GeoExt Contributors",
-      "uuid": "02f46c54-049e-4e09-becc-aa6f48bbc91c",
-      "created": "2016-10-10T06:19:04Z",
+      "uuid": "93f28bc1-a70e-4fff-8edf-9f87305d2187",
+      "created": "2016-11-16T07:05:22Z",
       "algorithm": "SHA1withRSA",
-      "nonce": "+lCMHgnXSio\u003d",
-      "signature": "du52rSUo/QZV7Kj8Nl0Vz9tgCfYBU+B2MgIs/yPqWG7I7fGAnBzl40tlFASK++D9anxj8G/tffYjbnVcYkgLjqru7XeiPZ45ldSA5HD/wjK5xfaVBfAlvh09KI659vxglHYWX0G1roD/Sqmzogg/wumqQR6Us4apqu3M+QzckITbJJBHgniIn5rUpw2M9HbSNwGyA0j4wTiccjSYX9zF/Az1Tj0nzloSoCMMO/Gm0JO9nkUKndfXleuPpquzfWcUjhWKbpCoMUlRlHCaesTuey9JNaY4JVOdWEmhK3kf/xkbMt0IzoYg7X5reZjgtgRfXkUJBIyh3FHnajx7tqmahQ\u003d\u003d"
+      "nonce": "/+nlThB8VTc\u003d",
+      "signature": "gV7fuFLGy69eWU3qg6pvtyxeu/z7qck//ebUyeV8levrl1WOPmnKFQDrcDRcd49HvbHAR3cD2sLnCjdPvxI1O+vz/zJUTTm/gkWLc9R2yA0rQ63pbcESOyAAYOmufMH1spWm13u+JHdYSBIEb7HDShPzlNtAvoUoYmE39HMG/PsDq0QAqIJ8uR+V6TIkcKDc4jVWUVVH8yxdecQDr00Wu7sO1Xgw/UnLKW7wlc1E5wTg1fXQwWsAEyZN/zD707ROpe25JIwXNnQLThpbF9tXjhSG3Uf/L8EPIFnR+4zD9AHfSMGFlt5zL3NTNzOoNhc4OirhBQshjZy/mCJMxxrEpQ\u003d\u003d"
     }
   ],
   "slicer": {
@@ -49,19 +49,19 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "2.17.2",
-    "coveralls": "2.11.14",
-    "eslint": "3.7.1",
-    "eslint-config-openlayers": "5.0.0",
+    "browser-sync": "2.17.6",
+    "coveralls": "2.11.15",
+    "eslint": "3.10.2",
+    "eslint-config-openlayers": "6.0.0",
     "expect.js": "0.3.1",
     "karma": "1.3.0",
     "karma-coverage": "1.1.1",
     "karma-eslint": "2.1.0",
     "karma-expect": "1.1.3",
-    "karma-mocha": "1.2.0",
+    "karma-mocha": "1.3.0",
     "karma-phantomjs-launcher": "1.0.2",
     "karma-sinon": "1.0.5",
-    "mocha": "3.1.0",
+    "mocha": "3.1.2",
     "phantomjs-prebuilt": "2.1.13",
     "sinon": "1.17.6"
   }
